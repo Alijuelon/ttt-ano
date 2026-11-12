@@ -1,0 +1,369 @@
+00:36:50 [INFO] ============================================================
+00:36:50 [INFO] Image-to-Voices TTS v2.0
+00:36:50 [INFO] Profile: accurate | Platform: Windows
+00:36:50 [INFO] ============================================================
+00:36:50 [INFO] Membuka kamera (indeks 0)...
+00:36:55 [INFO] [SUARA] 1 bagian: Bersiap. Arahkan kamera ke teks dengan jelas dan terang.
+00:36:55 [ERROR] Piper error: D:\TA-TTS\image-to-voices-tts\.venv\Scripts\python.exe: No module named piper
+
+00:36:55 [INFO] Pemanasan kamera (10 frame)...
+00:36:56 [INFO] [SUARA] 1 bagian: dua
+00:36:56 [ERROR] Piper error: D:\TA-TTS\image-to-voices-tts\.venv\Scripts\python.exe: No module named piper
+
+00:36:57 [INFO] [SUARA] 1 bagian: satu
+00:36:57 [ERROR] Piper error: D:\TA-TTS\image-to-voices-tts\.venv\Scripts\python.exe: No module named piper
+
+00:36:58 [INFO] [SUARA] 1 bagian: Memotret.
+00:36:58 [INFO] Mengambil frame terbaik...
+00:36:58 [ERROR] Piper error: D:\TA-TTS\image-to-voices-tts\.venv\Scripts\python.exe: No module named piper
+
+00:37:01 [INFO] Ketajaman frame terbaik: 2.4
+00:37:01 [WARNING] Gambar terlalu buram dengan skor 2. Dekatkan kamera, perbaiki pencahayaan, atau tahan kamera lebih stabil.
+00:37:01 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+00:37:01 [ERROR] Piper error: D:\TA-TTS\image-to-voices-tts\.venv\Scripts\python.exe: No module named piper
+
+00:37:01 [INFO] Selesai.
+00:45:50 [INFO] OCR selesai: 43.83s | conf=61.2 | varian=adaptive/psm11 | chars=332
+00:45:50 [INFO] [SUARA] 16 bagian: a-
+wt
+te
+a
+dua puluh satu
+tiga
+"tiga
+dua puluh empat
+oat
+v
+Ia
+wy
+“empat
+ferry
+si...
+00:51:15 [INFO] [SUARA] 1 bagian: Bersiap. Arahkan kamera ke teks dengan jelas dan terang.
+00:51:21 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+00:51:39 [INFO] [SUARA] 1 bagian: Bersiap. Arahkan kamera ke teks dengan jelas dan terang.
+00:51:45 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+00:52:07 [INFO] [SUARA] 1 bagian: Bersiap. Arahkan kamera ke teks dengan jelas dan terang.
+00:52:14 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+00:55:14 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+00:55:14 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+00:55:51 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+00:55:51 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:09:21 [INFO] OCR selesai: 37.38s | conf=69.7 | varian=otsu/psm11 | chars=186
+01:09:21 [INFO] OCR: conf=69.7 chars=186 waktu=37.38s varian=otsu/psm11
+01:09:21 [INFO] [SUARA] 8 bagian: te
+‘empat
+wo
+tra
+awe
+at
+is
+px
+we
+Li
+empat
+dua.
+ae
+aN
+hee
+PADA
+ad
+MENGGUNAKAN
+wee...
+01:10:05 [WARNING] [Framing] Teks terpotong di kanan. Geser kamera ke kanan.
+01:10:05 [INFO] [SUARA] 1 bagian: Teks terpotong di kanan. Geser kamera ke kanan.
+01:10:22 [WARNING] [Framing] Teks terpotong di kiri. Geser kamera ke kiri.. Teks terpotong di atas. Geser kamera ke atas.
+01:10:22 [INFO] [SUARA] 2 bagian: Teks terpotong di kiri. Geser kamera ke kiri.. Teks terpotong di atas. Geser kam...
+01:11:07 [INFO] OCR selesai: 8.56s | conf=78.8 | varian=norm/psm6 | chars=40
+01:11:07 [INFO] OCR: conf=78.8 chars=40 waktu=8.56s varian=norm/psm6
+01:11:07 [INFO] [SUARA] 1 bagian: tiga MENENTUKAN trik KERUSAKAN PADA AND ran
+01:12:13 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:12:13 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:12:30 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:12:30 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:12:58 [INFO] OCR selesai: 8.11s | conf=80.7 | varian=norm/psm3 | chars=63
+01:12:58 [INFO] OCR: conf=80.7 chars=63 waktu=8.11s varian=norm/psm3
+01:12:58 [INFO] [SUARA] 1 bagian: MENENTUKAN TITIK KERUSAKAN PADA ALAT UKUR MEGER DAN MULTI METER
+01:13:58 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:13:58 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:14:07 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:14:07 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:14:34 [INFO] OCR selesai: 8.74s | conf=85.8 | varian=norm/psm6 | chars=112
+01:14:34 [INFO] OCR: conf=85.8 chars=112 waktu=8.74s varian=norm/psm6
+01:14:34 [INFO] [SUARA] 1 bagian: MENENTUKAN Titik KERUSAKAN PADA MOTOR CELUP Di MENGGUNAKAN UKUR DAN MULTI METER ...
+01:15:35 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:15:35 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:15:53 [INFO] OCR selesai: 2.40s | conf=88.8 | varian=norm/psm6 | chars=125
+01:15:53 [INFO] OCR: conf=88.8 chars=125 waktu=2.40s varian=norm/psm6
+01:15:53 [INFO] [SUARA] 1 bagian: MENENTUKAN TITIK KERUSAKAN PADA MOTOR CELUP Di MENGGUNAKAN ALAT UKUR MEGER DAN M...
+01:16:21 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:16:21 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:16:36 [WARNING] [Framing] Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser kamera ke bawah.
+01:16:36 [INFO] [SUARA] 3 bagian: Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser k...
+01:17:02 [INFO] OCR selesai: 9.32s | conf=81.2 | varian=norm/psm6 | chars=130
+01:17:02 [INFO] OCR: conf=81.2 chars=130 waktu=9.32s varian=norm/psm6
+01:17:02 [INFO] [SUARA] 1 bagian: MENENTUKAN TITIK KERUSAKAN PADA MOTOR rowrs CPLUP Di WP MENGGUNAKAN UKUR MDGER D...
+01:19:22 [INFO] OCR selesai: 12.64s | conf=87.4 | varian=norm/psm6 | chars=107
+01:19:22 [INFO] OCR: conf=87.4 chars=107 waktu=12.64s varian=norm/psm6
+01:19:22 [INFO] [SUARA] 1 bagian: SKRIPS! MENENTUKAN TITIK KERUSAKAN PADA MOTOR POMPA Dt WP dan MENGGUNAKAN PE KIA...
+01:19:46 [INFO] OCR selesai: 13.11s | conf=87.6 | varian=norm/psm3 | chars=129
+01:19:46 [INFO] OCR: conf=87.6 chars=129 waktu=13.11s varian=norm/psm3
+01:19:46 [INFO] [SUARA] 2 bagian: SKRIPSI
+MENENTUKAN TITIK KERUSAKAN PADA MOTOR POMPA DM WP delapan MENGGUNAKAN UK...
+01:20:42 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:20:42 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:21:32 [INFO] OCR selesai: 12.99s | conf=85.8 | varian=norm/psm6 | chars=145
+01:21:32 [INFO] OCR: conf=85.8 chars=145 waktu=12.99s varian=norm/psm6
+01:21:32 [INFO] [SUARA] 2 bagian: MENENTUKAN TITIK KERUSAKAN PADA MOTOR POMPA CELUP Dt WP delapan MENGGUNAKAN ALAT...
+01:24:27 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:24:27 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:25:09 [INFO] OCR selesai: 3.91s | conf=88.7 | varian=norm/psm3 | chars=144
+01:25:09 [INFO] OCR: conf=88.7 chars=144 waktu=3.91s varian=norm/psm3
+01:25:09 [INFO] [SUARA] 3 bagian: ANALIKA MENENTUKAN TITIK KERUSAKAN PADA MOTOR POMPA CELUP Dt WP delapan MENGGUNA...
+01:26:51 [INFO] OCR selesai: 3.56s | conf=88.5 | varian=norm/psm3 | chars=97
+01:26:51 [INFO] OCR: conf=88.5 chars=97 waktu=3.56s varian=norm/psm3
+01:26:51 [INFO] [SUARA] 3 bagian: SKRIPSI
+ANALISA MENENTUKAN TITIK MOTOR
+A Di wptiga ALAT MEGER DAN MULTI METER
+AN...
+01:27:28 [WARNING] [Framing] Teks terpotong di kanan. Geser kamera ke kanan.
+01:27:28 [INFO] [SUARA] 1 bagian: Teks terpotong di kanan. Geser kamera ke kanan.
+01:28:02 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:28:02 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:28:26 [WARNING] [Framing] Teks terpotong di atas. Geser kamera ke atas.
+01:28:26 [INFO] [SUARA] 1 bagian: Teks terpotong di atas. Geser kamera ke atas.
+01:28:59 [INFO] OCR selesai: 9.55s | conf=85.4 | varian=norm/psm3 | chars=61
+01:28:59 [INFO] OCR: conf=85.4 chars=61 waktu=9.55s varian=norm/psm3
+01:28:59 [INFO] [SUARA] 1 bagian: SKEIPSI
+MOTOR POMPA CELUP Dt WP delapan MENGGUNAKAN DAN MULTI METER
+01:31:44 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:31:44 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:32:31 [INFO] OCR selesai: 4.85s | conf=88.5 | varian=norm/psm3 | chars=171
+01:32:31 [INFO] OCR: conf=88.5 chars=171 waktu=4.85s varian=norm/psm3
+01:32:31 [INFO] [SUARA] 3 bagian: SKRIPSI
+ANALASA MENENTUKAN TITIK KERUSAKAN PADA MOTOR POMPA CELUP DI WP delapan ...
+01:33:18 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:33:18 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:33:26 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:33:26 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:33:49 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:33:49 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:34:03 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:34:03 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:34:19 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:34:19 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:34:33 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:34:33 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:34:53 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:34:53 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:35:06 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+01:35:06 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+01:35:16 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:35:16 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+01:35:50 [WARNING] [Framing] Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser kamera ke bawah.
+01:35:50 [INFO] [SUARA] 2 bagian: Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser ka...
+01:36:24 [WARNING] [Framing] Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser kamera ke bawah.
+01:36:24 [INFO] [SUARA] 3 bagian: Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser k...
+01:36:56 [WARNING] [Framing] Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser kamera ke bawah.
+01:36:56 [INFO] [SUARA] 3 bagian: Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser k...
+01:37:33 [WARNING] [Framing] Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser kamera ke bawah.
+01:37:33 [INFO] [SUARA] 3 bagian: Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser k...
+14:22:43 [INFO] [SUARA] 1 bagian: Kamera tidak terdeteksi.
+15:15:50 [INFO] [SUARA] 1 bagian: Kamera tidak terdeteksi.
+15:16:28 [INFO] [SUARA] 1 bagian: Bersiap. Arahkan kamera ke teks dengan jelas dan terang.
+15:16:39 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+15:19:39 [INFO] OCR selesai: 30.69s | conf=73.2 | varian=norm/psm6 | chars=121
+15:19:39 [INFO] OCR: conf=73.2 chars=121 waktu=30.69s varian=norm/psm6
+15:19:39 [INFO] [SUARA] 1 bagian: MENENTUKAN TITIK KERUSAKAN PADA MTOM POMPA DI MENGGUNAKAN MAT ERLE DAN MULTI MET...
+15:20:36 [INFO] OCR selesai: 30.92s | conf=78.6 | varian=norm/psm4 | chars=124
+15:20:36 [INFO] OCR: conf=78.6 chars=124 waktu=30.92s varian=norm/psm4
+15:20:36 [INFO] [SUARA] 2 bagian: MENENTUKAN TITIK KERUSAKAN PADA MOTOR POMPA CELUP DI WP MENGGUNAKAN DAN MULTI ME...
+15:22:20 [INFO] OCR selesai: 67.66s | conf=75.8 | varian=norm/psm6 | chars=93
+15:22:20 [INFO] OCR: conf=75.8 chars=93 waktu=67.66s varian=norm/psm6
+15:22:20 [INFO] [SUARA] 1 bagian: TITIK KERUSAKAN PADA POMPA MENGGUNAKAN MATIRIE DAN MULTI METER KIAT PULP AND PER...
+15:28:18 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+15:28:18 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+15:28:36 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+15:28:36 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+15:29:21 [INFO] OCR selesai: 33.50s | conf=72.1 | varian=norm/psm6 | chars=78
+15:29:21 [INFO] OCR: conf=72.1 chars=78 waktu=33.50s varian=norm/psm6
+15:29:21 [INFO] [SUARA] 1 bagian: MENENTUKAN TITIK KIMUSAKAN PADA MENGGUNAKAN DAN MULTI METER KIAT MAF AND TBK del...
+15:29:25 [WARNING] [Framing] Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser kamera ke bawah.
+15:29:25 [INFO] [SUARA] 2 bagian: Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser ka...
+15:29:29 [WARNING] [Framing] Teks terpotong di atas. Geser kamera ke atas.
+15:29:29 [INFO] [SUARA] 1 bagian: Teks terpotong di atas. Geser kamera ke atas.
+15:29:43 [WARNING] [Framing] Teks terpotong di atas. Geser kamera ke atas.
+15:29:43 [INFO] [SUARA] 1 bagian: Teks terpotong di atas. Geser kamera ke atas.
+15:30:07 [WARNING] [Framing] Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser kamera ke bawah.
+15:30:07 [INFO] [SUARA] 2 bagian: Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser ka...
+15:31:09 [INFO] OCR selesai: 31.10s | conf=65.2 | varian=norm/psm6 | chars=106
+15:31:09 [INFO] OCR: conf=65.2 chars=106 waktu=31.10s varian=norm/psm6
+15:31:09 [INFO] [SUARA] 1 bagian: TITIK KERUSAKAN PADA MOTE DI tiga MENGGUNAKAN SALAT DAN MULTI DEFT KIAT AND PERA...
+15:31:54 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+15:31:54 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+15:32:15 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+15:32:15 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+15:32:56 [INFO] OCR selesai: 23.65s | conf=66.0 | varian=norm/psm6 | chars=57
+15:32:56 [INFO] OCR: conf=66.0 chars=57 waktu=23.65s varian=norm/psm6
+15:32:56 [INFO] [SUARA] 1 bagian: KAN TITIK PADA CELL empat MENGGUNAKAN DAN roam SAT PULP PEMAW
+15:41:01 [INFO] OCR selesai: 49.71s | conf=65.3 | varian=norm/psm4 | chars=278
+15:41:01 [INFO] [SUARA] 5 bagian: Teks Deskripsi
+JOMBANG
+Kebun Binatang Surabaya
+Kang nyemlake Torn Kebin birtang ...
+15:42:58 [INFO] [SUARA] 1 bagian: File gambar tidak ditemukan.
+15:43:38 [INFO] OCR selesai: 15.84s | conf=91.8 | varian=norm/psm6 | chars=285
+15:43:38 [INFO] [SUARA] 6 bagian: ruang Kaidah Kebahasaon Teks Deskripsi Menggunakan majas untuk menggambarkan sec...
+15:45:00 [INFO] [SUARA] 1 bagian: File gambar tidak ditemukan.
+15:45:13 [INFO] [SUARA] 1 bagian: File gambar tidak ditemukan.
+15:45:42 [INFO] OCR selesai: 5.99s | conf=92.5 | varian=norm/psm4 | chars=243
+15:45:42 [INFO] [SUARA] 6 bagian: PANCASILA lima satu. Ketuhanan Yang Maha Esa. lima dua. Kemanusiaan yang Adil da...
+15:48:32 [INFO] OCR selesai: 6.31s | conf=92.5 | varian=norm/psm4 | chars=243
+15:48:32 [INFO] [SUARA] 6 bagian: PANCASILA lima satu. Ketuhanan Yang Maha Esa. lima dua. Kemanusiaan yang Adil da...
+15:50:14 [INFO] OCR selesai: 10.11s | conf=95.7 | varian=clahe_sharp/psm4 | chars=229
+15:50:14 [INFO] [SUARA] 6 bagian: PENGERTIAN
+Teks Deskripsi adalah teks yang
+menggambarkan suatu objek, tempat,
+ma...
+15:52:36 [INFO] OCR selesai: 61.83s | conf=74.7 | varian=norm/psm3 | chars=1305
+15:52:36 [INFO] [SUARA] 21 bagian: Contoh Teks Deskripsi Bahasa Indonesia Contoh satu
+Tiang benilara yang berdin te...
+16:08:53 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:09:59 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:11:13 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:12:57 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:13:43 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:14:36 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:15:12 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:15:50 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:16:12 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:16:53 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:18:24 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:19:48 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:20:38 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:21:43 [INFO] OCR selesai: 22.41s | conf=91.8 | varian=norm/psm6 | chars=285
+16:21:43 [INFO] [SUARA] 6 bagian: ruang Kaidah Kebahasaon Teks Deskripsi Menggunakan majas untuk menggambarkan sec...
+16:32:46 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:33:13 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:33:49 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:33:55 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:33:57 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:35:43 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:54:02 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+16:54:18 [INFO] OCR selesai (EasyOCR): 13.98s | conf=79.8 | chars=278
+16:54:18 [INFO] [SUARA] 5 bagian: guang Kaidah Kebahasaan Teks Deskripsi Menggunakan majas untuk menggambarkan sec...
+16:58:19 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:58:51 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+16:59:26 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+17:06:38 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+17:06:57 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+17:10:05 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+17:11:42 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+17:22:10 [WARNING] [Framing] Teks terpotong di kiri. Geser kamera ke kiri.. Teks terpotong di atas. Geser kamera ke atas.
+17:22:10 [INFO] [SUARA] 2 bagian: Teks terpotong di kiri. Geser kamera ke kiri.. Teks terpotong di atas. Geser kam...
+17:22:41 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:22:43 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:23:10 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:23:13 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:23:15 [INFO] OCR selesai (EasyOCR): 23.38s | conf=78.8 | chars=268
+17:23:15 [INFO] OCR: conf=78.8 chars=268 waktu=23.38s varian=easyocr
+17:23:15 [INFO] [SUARA] 2 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN PADA ELEKTRO MOTOR POMPA CELUP DI WP ...
+17:23:19 [INFO] OCR selesai (EasyOCR): 27.61s | conf=57.6 | chars=125
+17:23:19 [INFO] OCR: conf=57.6 chars=125 waktu=27.61s varian=easyocr
+17:23:19 [INFO] [SUARA] 1 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN FADA ELEKTRO MOTOR POMPA CELUP DI WT ...
+17:23:39 [INFO] OCR selesai (EasyOCR): 19.10s | conf=64.8 | chars=280
+17:23:39 [INFO] OCR: conf=64.8 chars=280 waktu=19.10s varian=easyocr
+17:23:39 [INFO] [SUARA] 2 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN PADA ELEKTRO MOTOR POMPA CELUP DI WP ...
+17:23:39 [INFO] OCR selesai (EasyOCR): 17.83s | conf=72.5 | chars=197
+17:23:39 [INFO] OCR: conf=72.5 chars=197 waktu=17.83s varian=easyocr
+17:23:39 [INFO] [SUARA] 2 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN PADA ELEKTRO MOTOR POMPA CELUP DI WP ...
+17:23:45 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:23:45 [ERROR] Piper timeout (>30 detik)
+17:23:49 [ERROR] Piper timeout (>30 detik)
+17:24:02 [INFO] OCR selesai (EasyOCR): 12.77s | conf=82.7 | chars=278
+17:24:02 [INFO] OCR: conf=82.7 chars=278 waktu=12.77s varian=easyocr
+17:24:02 [INFO] [SUARA] 2 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN PADA ELEKTRO MOTOR POMPA CELUP DI WP ...
+17:24:09 [ERROR] Piper timeout (>30 detik)
+17:24:10 [ERROR] Piper timeout (>30 detik)
+17:33:10 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+17:33:10 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+17:33:11 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:33:28 [INFO] OCR selesai: 8.11s | conf=70.9 | varian=clahe_sharp/psm6 | chars=13
+17:33:28 [INFO] OCR: conf=70.9 chars=13 waktu=8.11s varian=clahe_sharp/psm6
+17:33:28 [INFO] [SUARA] 1 bagian: sembilan tiga empat A tujuh empat empat
+17:33:46 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+17:33:46 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+17:34:01 [WARNING] [Framing] Teks terpotong di kiri. Geser kamera ke kiri.. Teks terpotong di atas. Geser kamera ke atas.
+17:34:01 [INFO] [SUARA] 2 bagian: Teks terpotong di kiri. Geser kamera ke kiri.. Teks terpotong di atas. Geser kam...
+17:34:23 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:34:38 [INFO] OCR selesai (EasyOCR): 11.45s | conf=64.5 | chars=176
+17:34:38 [INFO] OCR: conf=64.5 chars=176 waktu=11.45s varian=easyocr
+17:34:38 [INFO] [SUARA] 2 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN PADA ELEKTRO MOTOR POMPA CELUP DI WP ...
+17:34:58 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:35:10 [INFO] OCR selesai (EasyOCR): 9.75s | conf=71.5 | chars=283
+17:35:10 [INFO] OCR: conf=71.5 chars=283 waktu=9.75s varian=easyocr
+17:35:10 [INFO] [SUARA] 2 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN PADA ELEKTRO MOTOR POMPA CELUP DI WP ...
+17:38:41 [INFO] [SUARA] 1 bagian: Gambar terlalu buram. Dekatkan kamera atau perbaiki pencahayaan.
+17:42:05 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:42:15 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:42:23 [INFO] OCR selesai (EasyOCR): 16.03s | conf=71.9 | chars=271
+17:42:23 [INFO] OCR: conf=71.9 chars=271 waktu=16.03s varian=easyocr
+17:42:23 [INFO] [SUARA] 2 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN PADA ELEKTRO MOTOR POMPA CELUP DIERUS...
+17:42:29 [INFO] OCR selesai (EasyOCR): 10.34s | conf=72.7 | chars=283
+17:42:29 [INFO] OCR: conf=72.7 chars=283 waktu=10.34s varian=easyocr
+17:42:29 [INFO] [SUARA] 3 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN PADA ELEKTRO MOTOR POMPA CELUP DI WP ...
+17:43:32 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:43:43 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+17:43:43 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+17:43:53 [INFO] OCR selesai (EasyOCR): 18.45s | conf=59.6 | chars=1329
+17:43:53 [INFO] OCR: conf=59.6 chars=1329 waktu=18.45s varian=easyocr
+17:43:53 [INFO] [SUARA] 18 bagian: Pembımbing Hikmenul Amrı delapanST ABSTRAK motor mncrupakan komponen dalam kcrua...
+17:48:40 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+17:48:40 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+17:48:48 [WARNING] [Framing] Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser kamera ke atas.. Teks terpotong di bawah. Geser kamera ke bawah.
+17:48:48 [INFO] [SUARA] 3 bagian: Teks terpotong di kanan. Geser kamera ke kanan.. Teks terpotong di atas. Geser k...
+17:49:03 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+17:49:03 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+17:49:10 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:49:10 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:49:47 [ERROR] Piper timeout (>30 detik)
+17:49:47 [ERROR] Piper timeout (>30 detik)
+17:49:49 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:50:23 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+17:50:23 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+17:50:28 [WARNING] [Framing] Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+17:50:28 [INFO] [SUARA] 2 bagian: Tidak ada teks terdeteksi. Pastikan teks jelas dan terang.
+17:51:01 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+17:51:05 [WARNING] [Framing] Teks terpotong di bawah. Geser kamera ke bawah.
+17:51:05 [INFO] [SUARA] 1 bagian: Teks terpotong di bawah. Geser kamera ke bawah.
+17:51:19 [INFO] OCR selesai (EasyOCR): 12.05s | conf=76.1 | chars=282
+17:51:19 [INFO] OCR: conf=76.1 chars=282 waktu=12.05s varian=easyocr
+17:51:19 [INFO] [SUARA] 2 bagian: SKRIPSI ANALISA MENENTUKAN TITIK KERUSAKAN PADA ELEKTRO MOTOR POMPA CELUP DIWP d...
+17:51:24 [WARNING] [Framing] Teks terpotong di atas. Geser kamera ke atas.
+17:51:24 [INFO] [SUARA] 1 bagian: Teks terpotong di atas. Geser kamera ke atas.
+18:23:17 [WARNING] EasyOCR tidak tersedia, beralih ke Tesseract: [WinError 5] Access is denied: 'C:\\Users\\asus\\.EasyOCR\\user_network'
+18:23:22 [INFO] OCR selesai: 4.46s | conf=92.5 | varian=norm/psm4 | chars=243
+18:23:22 [INFO] [SUARA] 6 bagian: PANCASILA lima satu. Ketuhanan Yang Maha Esa. lima dua. Kemanusiaan yang Adil da...
+18:30:37 [WARNING] EasyOCR tidak tersedia, beralih ke Tesseract: No module named 'easyocr'
+18:30:46 [WARNING] EasyOCR tidak tersedia, beralih ke Tesseract: No module named 'easyocr'
+18:32:33 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+18:32:39 [INFO] OCR selesai (EasyOCR): 3.15s | conf=79.4 | chars=231
+18:32:39 [INFO] [SUARA] 4 bagian: PANCASILA Ketuhanan Yang Maha Esa Kemanusiaan yang Adil dan Beradab. tiga.Persat...
+18:46:41 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+18:47:16 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+18:47:34 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+18:47:45 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+18:48:07 [WARNING] Using CPU. Note: This module is much faster with a GPU.
+18:54:29 [INFO] OCR selesai: 33.39s | conf=84.6 | varian=clahe_sharp/psm3 | chars=154
+18:54:29 [INFO] OCR: conf=84.6 chars=154 waktu=33.39s varian=clahe_sharp/psm3
+18:54:29 [INFO] [SUARA] 3 bagian: ANALISA MENENTUKAN TITIK KERUSAKAN PADA MOTOR POMPA CELUP WP delapan MENGGUNAKAN...
+18:56:47 [INFO] OCR selesai: 65.07s | conf=54.1 | varian=clahe_sharp/psm3 | chars=158
+18:56:47 [INFO] OCR: conf=54.1 chars=158 waktu=65.07s varian=clahe_sharp/psm3
+18:56:47 [INFO] [SUARA] 3 bagian: dan dalam, stator Mader pada yang ster dan toner peng berputar dengan wulne wie ...
+19:59:54 [INFO] OCR selesai: 30.35s | conf=81.3 | varian=clahe_sharp/psm4 | chars=167
+19:59:54 [INFO] OCR: conf=81.3 chars=167 waktu=30.35s varian=clahe_sharp/psm4
+19:59:54 [INFO] [SUARA] 3 bagian: SKRIPSI
+MENENTUKAN TITIK KERUSAKAN PADA MOTOR POMPA CELUP DE WP delapan MENGGUNA...
+21:37:30 [INFO] OCR selesai: 54.96s | conf=74.8 | varian=clahe_sharp/psm4 | chars=102
+21:37:30 [INFO] OCR: conf=74.8 chars=102 waktu=54.96s varian=clahe_sharp/psm4
+21:37:30 [INFO] [SUARA] 1 bagian: MENENTUKAN TITIK KERUSAKAN PADA MOTOR POMPA CELU DI tujuh koma nol ALAY UKUR MEG...
